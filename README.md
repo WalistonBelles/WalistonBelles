@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" title="#" src="logo.png" />
+  <img alt="Logo" title="#" src="thumb-1920-1156488.png" />
 </h1>
 ### Olá 👋
 
