@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="Logo" title="#" src="thumb-1920-1156488.png" />
+  <img alt="Logo" title="#" src="default.png" />
 </h1>
 ### Olá 👋
 
-Sou Waliston, desenvolvedor web, formado em Análise e Desenvolvimento de Sistemas. Atualmente estou estudando VueJS e Typescript.
+Sou Waliston, desenvolvedor web, formado em Análise e Desenvolvimento de Sistemas. Atualmente estou atuando como desenvolvedor Fullstack, trabalhando com NuxtJs e AdonisJS.
 
 [![Visits Badge](https://badges.pufler.dev/visits/WalistonBelles/WalistonBelles)](https://github.com/WalistonBelles)
 
