@@ -4,6 +4,7 @@
 ### Olá 👋
 
 Sou Waliston, desenvolvedor web, formado em Análise e Desenvolvimento de Sistemas. Atualmente estou atuando como desenvolvedor Fullstack, trabalhando com NuxtJs e AdonisJS.
+Atuo como principal contribuidor do projeto <a href="https://github.com/ElectroAAC/electro">ElectroAAC</a>, um projeto Open Source voltado para comunidade de Tibia.
 
 [![Visits Badge](https://badges.pufler.dev/visits/WalistonBelles/WalistonBelles)](https://github.com/WalistonBelles)
 
